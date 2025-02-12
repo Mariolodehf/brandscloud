@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import { enviarDatos } from './services/api';
+import { enviarDatos } from './services/api.js';
 import { useState } from 'react';
 
 function App() {
